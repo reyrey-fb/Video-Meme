@@ -20,10 +20,10 @@ Attention was paid to:
      - page responsiveness;  
      - the UI/UX experience.   
 The app is divided into 4 parts:   
-    1) The Single Page App (App.js);   
-    2) The child components and their style sheets (components);   
-    3) The components and logic necessary for drag and drop functionality (dnd-components);   
-    4) The business logic and API calls necessary to call the words.   
+1. The Single Page App (App.js);   
+1. The child components and their style sheets (components);   
+1. The components and logic necessary for drag and drop functionality (dnd-components);   
+1. The business logic and API calls necessary to call the words.   
 The data flow is as follows:   
     1) An HTTP call is made to the three URLs ->   
     2) The response is filtered through the findCommonWords algorithm ->   
