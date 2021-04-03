@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Libraries
 
-The CSS style library is Bootstrap 4 (https://getbootstrap.com/docs/4.0/getting-started/introduction/).
+The CSS style library is Bootstrap 4 (https://getbootstrap.com/docs/4.0/getting-started/introduction/).\
 The video player is React-Player (https://www.npmjs.com/package/react-player).
 The Drag and Drop functionality uses react-dnd, built on HTML5's Drag and Drop API (https://react-dnd.github.io/react-dnd/about)
 (React-dnd also utilizes the immutability-helper library.)
